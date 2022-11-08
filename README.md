@@ -6,7 +6,7 @@ The main results of the paper:
 ![results](images/results.png)
 
 Visualization of the predictions of PatchCore3D compared to other methods.
-![visualization](images/visualization.png)
+![visualization](images/visualizations.png)
 
 This repo uses code from: 
 1. <https://github.com/amazon-science/patchcore-inspection> with basic PatchCore method implementation;
